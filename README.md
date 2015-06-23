@@ -11,12 +11,17 @@ https://minibianpi.wordpress.com/
 - IPv6
 - VLAN support
 - etckeeper
+- iperf
+- tcpdump
+- tshark
+- smokeping host
+-- Apache2
 
 ---
 Future:
 
-- smokeping host
 - nagios tools(?)
 - Other stuff later
 - cfengine or puppet for management
+- Menushell
 
